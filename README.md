@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate in a company that uses machine learning in its business
 - 📫 How to reach by my email ruben.palma1108@gmail.com
 
-# Mis repositorios son de guia para aprender python y cienecia de datos
+# Mis repositorios son de guia para aprender python y ciencia de datos
 
 
 <!---
