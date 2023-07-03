@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate in a company that uses machine learning in its business
 - 📫 How to reach by my email ruben.palma1108@gmail.com
 
+# Mis repositorios son de guia para aprender python y cienecia de datos
+
+
 <!---
 RubenGithub1108/RubenGithub1108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
