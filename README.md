@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning to program in python to be a data scientist.
 - 💞️ I’m looking to collaborate in a company that uses machine learning in its business
 - 📫 How to reach by my email ruben.palma1108@gmail.com
+- 👉 [Linkedin in/rubén-fernando-palma-medina](https://www.linkedin.com/in/rub%C3%A9n-fernando-palma-medina/)
 
 # Mis repositorios son de guia para aprender python y ciencia de datos
 
