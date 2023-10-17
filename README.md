@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RubenGithub1108
+- 👋 Hi, I’m @Rubén Palma
 - 👀 I’m interested in technology and entrepreneurship.
 - 🌱 I’m currently learning to program in python to be a data scientist.
 - 💞️ I’m looking to collaborate in a company that uses machine learning in its business
