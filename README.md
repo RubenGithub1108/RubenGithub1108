@@ -2,7 +2,7 @@
 - 👀 I’m passionate about technology, data science, and entrepreneurship.
 - 🌱 Currently working as a Python programmer and Data Scientist, building data-driven solutions.
 - 💼 Looking to collaborate with companies that leverage machine learning to improve their business.
-- 📫 You can reach me at: ruben.palma1108@gmail.com
+- 📫 You can reach me at: ruben.palma@alumnos.uach.cl
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rub%C3%A9n-fernando-palma-medina/)
 
 # Mis repositorios son de guia para aprender python y ciencia de datos
